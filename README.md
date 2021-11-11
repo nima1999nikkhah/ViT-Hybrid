@@ -2,4 +2,9 @@ This is the implementation of ViT-Hybrid introduced in the paper titled "An Imag
 
 The backbone used is EfficientNet-B2, and the weights are frozen. The ViT head is trained with "Stanford's Cars 196" dataset.
 
-![Alt text](ViT.png?raw=true "Image")
+<p align = "center">
+<img src = "ViT.png">
+</p>
+<p align = "center">
+Fig.1 - ViT Architecture
+</p>
